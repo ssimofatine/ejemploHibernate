@@ -14,6 +14,7 @@ public class Main {
     static void main() {
 
         /*
+        //
          Recinto r1 = RecintosDAO.findById(5L);
          if (r1 != null) {
              System.out.println("Recinto encontrado: " + r1.getNombre());
